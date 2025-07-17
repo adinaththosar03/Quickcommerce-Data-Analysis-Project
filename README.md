@@ -1,11 +1,6 @@
-# Quickcommerce-Data-Analysis-Project
-Here’s a detailed **README.md** for your **Quick Commerce India Data Analysis** project. This is designed to showcase your Power BI, DAX, and analytical skills clearly for recruiters or GitHub visitors, and emphasizes useful business insights drawn from your work.
-
----
-
 # 📦 Quick Commerce India – Data Analysis Project
 
-![Power BI Dashboard Banner](https://via.placeholder.com/1200x400?text=Quick+Commerce+India+Dashboard) <!-- Optional image banner -->
+![Power BI Dashboard Banner](https://static.vecteezy.com/system/resources/previews/002/916/508/original/big-isolated-motorcycle-colorful-icons-vector.jpg) 
 
 ## 📊 Project Overview
 
